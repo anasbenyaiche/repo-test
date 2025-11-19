@@ -4,6 +4,7 @@ Project 1
 Planning-UI
 
 * Detail:
+une modify
 Ajouter un calendrier
 Ajouter des diagramme
 
