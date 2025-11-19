@@ -12,3 +12,17 @@ Ajouter des diagramme
 
 
 ___________________________ 
+Project pour commit
+
+*Titre:
+Planning-UI
+
+* Detail:
+Ajouter un calendrier
+Ajouter des diagramme
+
+* Deadline:
+27/11/2025
+
+
+___________________________ 
