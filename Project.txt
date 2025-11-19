@@ -1,3 +1,14 @@
-Chronotime V1 
-Chronotime V2
-Planning V3
+Project 1 
+
+*Titre:
+Planning-UI
+
+* Detail:
+Ajouter un calendrier
+Ajouter des diagramme
+
+* Deadline:
+27/11/2025
+
+
+___________________________ 
